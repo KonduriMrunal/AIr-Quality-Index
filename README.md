@@ -19,7 +19,7 @@ model to predict average pollutant concentration.
 - Visualize pollutant trends and correlations
 - Predict pollutant average using Random Forest Regression
 
-## 📈 Machine Learning Model
+## 📈 Machine Learning model
 - Model Used: Random Forest Regressor
 - Evaluation Metrics: RMSE, R² Score
 
