@@ -1,5 +1,5 @@
 # Air-Quality-Index
-Data analysis and prediction of air quality using Python and Machine Learning
+Data analysis and prediction of Air quality using Python and Machine Learning
 # 🌍 Real-Time Air Quality Index Analysis
 
 ## 📌 Project Overview
