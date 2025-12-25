@@ -29,7 +29,7 @@ model to predict average pollutant concentration.
 - Project Report (DOCX)
 
 ## 🎓 Academic Use
-This project is developed as part of the **INT234 – Data Science Toolbox** course.
+This project is developed as part of the **INT234 – Data Science Toolbox** Course.
 
 ## 👤 Author
 **K. Mrunal**
